@@ -1,0 +1,4 @@
+radius: 50
+world: world
+pvp_enabled: false
+allowed_players: []
